@@ -84,4 +84,4 @@ public void doPost(HttpServletRequest request, HttpServletResponse response)
     </div>
   </body>
 ```
-！[](https://github.com/LMTJY/JQuery-Json-ajax/blob/master/11.png)
+![](https://github.com/LMTJY/JQuery-Json-ajax/blob/master/11.png)
